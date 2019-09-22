@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[10,)"
+##issueTrackerURL="no"
+logoFile="logo.png"
+[[mods]]
+modId="temporary_spawners"
+version="1.0.0"
+displayName="Temporary Spawners"
+##displayURL="no"
+authors="robertx22"
+description='''
+Stop easy infinite mob farms!
+'''
+[[dependencies.mmorpg]]
+    modId="forge"
+    mandatory=true
+    versionRange="[28.1.0,)"
+    ordering="NONE"
+    side="BOTH"

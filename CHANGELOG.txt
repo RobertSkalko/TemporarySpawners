@@ -1,0 +1,10 @@
+1.0.1
+tweaks to fall resistant mobs
+
+1.0.0
+Release!
+
+Features (all can be disabled/configured):
+* anti mob farm (prevents spawns in chunks where too many spawn per x amount of minutes)
+* fire resistant mobs (no longer burn in daylight, no longer avoid lava)
+* fall resistant mobs
